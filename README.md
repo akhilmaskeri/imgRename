@@ -2,6 +2,7 @@
 
 filter the random names of the images to their web search entities 
 and rename them to something more sensible 
+
 ( ofc ! the best search result )
 using the google cloud vision api.
 
